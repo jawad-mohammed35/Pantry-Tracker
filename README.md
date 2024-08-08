@@ -4,11 +4,11 @@ This project was developed during Week 2 of the Headstarter Software Engineering
 
 Technologies Used:
 
-CSS
-JavaScript
-Next.js
-React
-Firebase
+CSS,
+JavaScript,
+Next.js,
+React,
+Firebase,
 Project Overview:
 
 This application allows users to efficiently manage their pantry or inventory by adding items such as food and supplies. Users can easily edit the quantity and price of each item, with the total price updating in real-time as modifications are made.
